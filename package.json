@@ -10,7 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "@tensorflow/tfjs": "^0.12.4",
-    "@tensorflow/tfjs-node": "file:../tfjs-node/tensorflow-tfjs-node-0.1.12.tgz",
-    "@tensorflow/tfjs-node-gpu": "file:../tfjs-node/tensorflow-tfjs-node-gpu-0.1.12.tgz"
+    "@tensorflow/tfjs-node": "^0.1.12"
   }
 }
